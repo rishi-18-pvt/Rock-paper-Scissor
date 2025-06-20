@@ -1,11 +1,11 @@
 🪨📄✂️ Rock-Paper-Scissors Game in Java
 
 🎮 Features:
-*User vs Computer gameplay
-*Input validation for player choices
-*Randomized computer choices
-*Repeatable game loop with "Play Again" option
-*Clean and beginner-friendly Java code
+1. User vs Computer gameplay
+2. Input validation for player choices
+3. Randomized computer choices
+4. Repeatable game loop with "Play Again" option
+5. Clean and beginner-friendly Java code
 
 ##How to Run
 
